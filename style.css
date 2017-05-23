@@ -44,9 +44,9 @@ body, body * {
 
 .feature {
   top: 34px;
-  left: 389px;
-  width: 330px;
-  height: 181px;
+  right: 26px;
+  width: 331px;
+  height: 182px;
   position: absolute;
 }
 #ytp-0 {
