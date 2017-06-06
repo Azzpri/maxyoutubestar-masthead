@@ -79,7 +79,7 @@ function showYTPlayer0(containerId) {
     creative.dom.ytplayer0 = document.createElement('gwd-youtube');
     var ytp = creative.dom.ytplayer0;
     ytp.setAttribute('id', 'ytp-0');
-    ytp.setAttribute('video-url', 'https://www.youtube.com/watch?v=EcgP-VTHMdE');
+    ytp.setAttribute('video-url', 'https://www.youtube.com/watch?v=3bNP52EZPY4');
     ytp.setAttribute('autoplay', 'preview'); // none, standard, preview, intro.
     ytp.setAttribute('preview-duration', '29'); // Only for &#39;preview&#39; autoplay mode.
     ytp.setAttribute('muted', 'true');
